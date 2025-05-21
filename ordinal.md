@@ -36,10 +36,10 @@ Tian Y, Li C, Tu S, James NT, Harrell FE, Shepherd BE. Addressing multiple detec
 
 ## Probability-scale residuals for ordinal (and general) outcomes
 
-Li C, Shepherd BE. A new residual for ordinal outcomes. Biometrika. 2012;99(2):473-80. PMCID: PMC3635659.
+Li C, Shepherd BE. A new residual for ordinal outcomes. Biometrika. 2012;99(2):473-80. PMCID: PMC3635659. [link](https://pubmed.ncbi.nlm.nih.gov/23843667/)
 
-Shepherd BE, Li C, Liu Q. Probability-scale residuals for continuous, discrete, and censored data. Canadian Journal of Statistics 2016; 44: 463-479
+Shepherd BE, Li C, Liu Q. Probability-scale residuals for continuous, discrete, and censored data. Canadian Journal of Statistics 2016; 44: 463-479. [link](https://pubmed.ncbi.nlm.nih.gov/28348453/)
 
 ## Software
 
-Liu Q, Shepherd BE, Li C. PResiduals: an R package for residual analysis using probability-scale residuals. Journal of Statistical Software 2020; 94: 12. [link](10.18637/jss.v094.i12)
+Liu Q, Shepherd BE, Li C. PResiduals: an R package for residual analysis using probability-scale residuals. Journal of Statistical Software 2020; 94: 12. [link](https://www.jstatsoft.org/article/view/v094i12)
