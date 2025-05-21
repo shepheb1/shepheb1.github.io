@@ -6,7 +6,7 @@ layout: page
 
 ## Ordinal / Rank-based Analysis Methods
 
-[More Details](./ordinal/)
+[More Details](/ordinal/)
 
 Motivated by a simple question we encountered in our collaborative research, my colleague, Chun Li and I developed a new statistical method to test for association between two ordered categorical variables while adjusting for covariates.  In the process, we developed a new residual for ordinal outcomes, which we have since discovered to be useful for many other outcome types. This work has opened new directions for the analysis of continuous data using ordinal models, which are rank-based and make fewer assumptions than traditional approaches. The research is currently funded by an R01 from the National Institutes of Health.
 
