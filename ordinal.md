@@ -1,6 +1,6 @@
 ---
 title: "Ordinal Research"
-permalink: "/research/"
+permalink: "/ordinal/"
 layout: page
 ---
 
