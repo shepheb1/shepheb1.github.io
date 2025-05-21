@@ -4,15 +4,32 @@ permalink: "/ordinal/"
 layout: page
 ---
 
-This page has details of ordinal research.
+Here are some general areas of research and papers in that area. This work has involved many students and colleagues.
 
-## Covariate-adjusted Spearman rank correlation
+## Covariate-adjusted Spearman rank correlation and rank ICC
+
+Li C, Shepherd BE. Test of association between two ordinal variables while adjusting for covariates. Journal of the American Statistical Association 2010; 105: 612-620.
 
 Liu Q, Li C, Wanga V, Shepherd BE. Covariate-adjusted Spearman’s rank correlation with probability-scale residuals. Biometrics 2018; 74: 595-605. PMCID: PMC5949238. [link](https://pubmed.ncbi.nlm.nih.gov/29131931/)
+
+Eden S, Li C, Shepherd BE. Non-parametric estimation of Spearman's rank correlation with bivariate survival data. Biometrics 2022; 78: 421-434.
+
+Tu S, Li C, Zeng D, Shepherd BE. Rank intraclass correlation for clustered data. Statistics in Medicine 2023; 42: 4333-4348.
+
+Eden S, Li C, Shepherd BE. Spearman-like correlation measure adjusting for covariates in bivariate survival data. Biometrical Journal 2023; 65: 2200137.
+
+Tu S, Li C, Shepherd BE. Between- and within-cluster Spearman rank correlation. Statistics in Medicine 2025; 44: e10326.
+
 
 ## Analyzing continuous data with ordinal models 
 
 Liu Q, Shepherd BE, Li C, Harrell FE. Modeling continuous response variables using ordinal regression. Stat Med. 2017;36(27):4316-35. PMCID: PMC5675816.
+
+Tian Y, Hothorn T, Li C, Harrell FE, Shepherd BE. An empirical comparison of two novel transformation models. Statistics in Medicine 2020; 39: 562--576.
+
+Li C, Tian Y, Zeng D, Shepherd BE. Asymptotic properties for cumulative probability models for continuous outcomes. Mathematics 2023; 11: 4896.
+
+Tian Y, Shepherd BE, Li C, Zeng D, Schildcrout JS. Analyzing  clustered continuous response variables with ordinal regression models. Biometrics 2023; 79: 3764-3777.
 
 Tian Y, Li C, Tu S, James NT, Harrell FE, Shepherd BE. Addressing multiple detection limits with semiparametric cumulative probability models. Journal of the American Statistical Association 2024; 119: 864-874.
 
@@ -21,4 +38,8 @@ Tian Y, Li C, Tu S, James NT, Harrell FE, Shepherd BE. Addressing multiple detec
 
 Li C, Shepherd BE. A new residual for ordinal outcomes. Biometrika. 2012;99(2):473-80. PMCID: PMC3635659.
 
-## Rank intraclass correlation coefficients
+Shepherd BE, Li C, Liu Q. Probability-scale residuals for continuous, discrete, and censored data. Canadian Journal of Statistics 2016; 44: 463-479
+
+## Software
+
+Liu Q, Shepherd BE, Li C. PResiduals: an R package for residual analysis using probability-scale residuals. Journal of Statistical Software 2020; 94: 12. [link](10.18637/jss.v094.i12)
