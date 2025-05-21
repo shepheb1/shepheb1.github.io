@@ -8,17 +8,17 @@ Here are some general areas of research and papers in that area. This work has i
 
 ## Covariate-adjusted Spearman rank correlation and rank ICC
 
-Li C, Shepherd BE. Test of association between two ordinal variables while adjusting for covariates. Journal of the American Statistical Association 2010; 105: 612-620.
+Li C, Shepherd BE. Test of association between two ordinal variables while adjusting for covariates. Journal of the American Statistical Association 2010; 105: 612-620. [link](https://www.tandfonline.com/doi/abs/10.1198/jasa.2010.tm09386)
 
 Liu Q, Li C, Wanga V, Shepherd BE. Covariate-adjusted Spearman’s rank correlation with probability-scale residuals. Biometrics 2018; 74: 595-605. PMCID: PMC5949238. [link](https://pubmed.ncbi.nlm.nih.gov/29131931/)
 
-Eden S, Li C, Shepherd BE. Non-parametric estimation of Spearman's rank correlation with bivariate survival data. Biometrics 2022; 78: 421-434.
+Eden S, Li C, Shepherd BE. Non-parametric estimation of Spearman's rank correlation with bivariate survival data. Biometrics 2022; 78: 421-434. [link](https://pubmed.ncbi.nlm.nih.gov/33704769/)
 
-Tu S, Li C, Zeng D, Shepherd BE. Rank intraclass correlation for clustered data. Statistics in Medicine 2023; 42: 4333-4348.
+Tu S, Li C, Zeng D, Shepherd BE. Rank intraclass correlation for clustered data. Statistics in Medicine 2023; 42: 4333-4348. [link](https://pubmed.ncbi.nlm.nih.gov/37548059/)
 
-Eden S, Li C, Shepherd BE. Spearman-like correlation measure adjusting for covariates in bivariate survival data. Biometrical Journal 2023; 65: 2200137.
+Eden S, Li C, Shepherd BE. Spearman-like correlation measure adjusting for covariates in bivariate survival data. Biometrical Journal 2023; 65: 2200137. [link](https://pubmed.ncbi.nlm.nih.gov/37753794/)
 
-Tu S, Li C, Shepherd BE. Between- and within-cluster Spearman rank correlation. Statistics in Medicine 2025; 44: e10326.
+Tu S, Li C, Shepherd BE. Between- and within-cluster Spearman rank correlation. Statistics in Medicine 2025; 44: e10326. [link](https://pubmed.ncbi.nlm.nih.gov/39853810/)
 
 
 ## Analyzing continuous data with ordinal models 
