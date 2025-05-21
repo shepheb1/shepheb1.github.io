@@ -31,7 +31,7 @@ Li C, Tian Y, Zeng D, Shepherd BE. Asymptotic properties for cumulative probabil
 
 Tian Y, Shepherd BE, Li C, Zeng D, Schildcrout JS. Analyzing  clustered continuous response variables with ordinal regression models. Biometrics 2023; 79: 3764-3777. [link](https://pubmed.ncbi.nlm.nih.gov/37459181/)
 
-Tian Y, Li C, Tu S, James NT, Harrell FE, Shepherd BE. Addressing multiple detection limits with semiparametric cumulative probability models. Journal of the American Statistical Association 2024; 119: 864-874. [link](https://www.tandfonline.com/doi/epdf/10.1080/01621459.2024.2315667?needAccess=true)
+Tian Y, Li C, Tu S, James NT, Harrell FE, Shepherd BE. Addressing multiple detection limits with semiparametric cumulative probability models. Journal of the American Statistical Association 2024; 119: 864-874. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11500994/)
 
 
 ## Probability-scale residuals for ordinal (and general) outcomes
