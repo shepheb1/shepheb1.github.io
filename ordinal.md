@@ -4,7 +4,7 @@ permalink: "/ordinal/"
 layout: page
 ---
 
-Here are some general areas of research and papers in that area. This work has involved many students and colleagues.
+Here are some general areas of research and papers for methods with ordinal or rank data. This work has involved many students and colleagues.
 
 ## Covariate-adjusted Spearman rank correlation and rank ICC
 
@@ -23,15 +23,15 @@ Tu S, Li C, Shepherd BE. Between- and within-cluster Spearman rank correlation. 
 
 ## Analyzing continuous data with ordinal models 
 
-Liu Q, Shepherd BE, Li C, Harrell FE. Modeling continuous response variables using ordinal regression. Stat Med. 2017;36(27):4316-35. PMCID: PMC5675816.
+Liu Q, Shepherd BE, Li C, Harrell FE. Modeling continuous response variables using ordinal regression. Stat Med. 2017;36(27):4316-35. PMCID: PMC5675816. [link](https://pubmed.ncbi.nlm.nih.gov/28872693/)
 
-Tian Y, Hothorn T, Li C, Harrell FE, Shepherd BE. An empirical comparison of two novel transformation models. Statistics in Medicine 2020; 39: 562--576.
+Tian Y, Hothorn T, Li C, Harrell FE, Shepherd BE. An empirical comparison of two novel transformation models. Statistics in Medicine 2020; 39: 562-576. [link](https://pubmed.ncbi.nlm.nih.gov/31808976/)
 
-Li C, Tian Y, Zeng D, Shepherd BE. Asymptotic properties for cumulative probability models for continuous outcomes. Mathematics 2023; 11: 4896.
+Li C, Tian Y, Zeng D, Shepherd BE. Asymptotic properties for cumulative probability models for continuous outcomes. Mathematics 2023; 11: 4896. [link](https://pubmed.ncbi.nlm.nih.gov/38374966/)
 
-Tian Y, Shepherd BE, Li C, Zeng D, Schildcrout JS. Analyzing  clustered continuous response variables with ordinal regression models. Biometrics 2023; 79: 3764-3777.
+Tian Y, Shepherd BE, Li C, Zeng D, Schildcrout JS. Analyzing  clustered continuous response variables with ordinal regression models. Biometrics 2023; 79: 3764-3777. [link](https://pubmed.ncbi.nlm.nih.gov/37459181/)
 
-Tian Y, Li C, Tu S, James NT, Harrell FE, Shepherd BE. Addressing multiple detection limits with semiparametric cumulative probability models. Journal of the American Statistical Association 2024; 119: 864-874.
+Tian Y, Li C, Tu S, James NT, Harrell FE, Shepherd BE. Addressing multiple detection limits with semiparametric cumulative probability models. Journal of the American Statistical Association 2024; 119: 864-874. [link](https://www.tandfonline.com/doi/epdf/10.1080/01621459.2024.2315667?needAccess=true)
 
 
 ## Probability-scale residuals for ordinal (and general) outcomes
