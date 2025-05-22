@@ -6,7 +6,7 @@ layout: page
 
 ## Methods to Address Measurement Error
 
-This page contains many of our papers in a variety of areas for addressing data quality. This work involves many students and colleagues. My co-PI on much of this work, Pam Shaw, also has a [website](https://shawstat.org/sh2-collaborative/) that may be helpful. 
+This page contains many of our papers in a variety of areas for addressing data quality. This work involves many fabulous students and colleagues. My co-PI on much of this work, Pam Shaw, also has a [website](https://shawstat.org/sh2-collaborative/) that may be helpful. 
 
 
 ## Analysis Methods
