@@ -4,7 +4,7 @@ permalink: "/ordinal/"
 layout: page
 ---
 
-Here are some general areas of research and papers for methods with ordinal or rank data. This work has involved many students and colleagues.
+Here are some general areas of research and papers for methods with ordinal or rank data. This work has involved many fabulous students and colleagues.
 
 ## Covariate-adjusted Spearman rank correlation and rank ICC
 
