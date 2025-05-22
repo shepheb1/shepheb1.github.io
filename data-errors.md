@@ -33,6 +33,8 @@ Lotspeich SC, Shepherd BE, Amorim G, Shaw PA, Tao R. Efficient odds ratio estima
 
 Amorim G, Tao R, Lotspeich SC, Shaw PA, Lumley T, Patel RC, Shepherd BE. Three-phase generalized raking and multiple imputation estimators to address error-prone data. *Statistics in Medicine* 2024; 43: 379-394. [link](https://pubmed.ncbi.nlm.nih.gov/37987515/)
 
+Amorim G, Tao R, Lumley T, Shaw PA, Shepherd BE. Ascertainment conditional maximum likelihood for continuous outcome under two-phase response-selective design. Statistics in Medicine (in press).
+
 
 ## Designs
 
@@ -49,6 +51,8 @@ Shepherd BE, Han K, Chen T, Bian A, Pugh SK, Duda SN, Lumley T, Heerman WJ, Shaw
 ## Reviews and Software
 
 Shepherd BE, Shaw PA. Errors in multiple variables in HIV cohort and electronic health record data: statistical challenges and opportunities. *Statistical Communications in Infectious Diseases* 2020; 12: 20190015. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9204761/)
+
+Shepherd BE, Shaw PA. New methods to improve data accuracy in studies using electronic health record data. Washington (DC): Patient-Centered Outcomes Research Institute (PCORI); 2022 August. PCORI Final Research Reports. [link](https://www.pcori.org/sites/default/files/ShepherdShaw425-Final-Research-Report.pdf)
 
 Yang JB, Shepherd BE, Lumley T, Shaw PA. Optimum allocation for adaptive multi-wave sampling in R: the R package 'optimall'. *Journal of Statistical Software* (in press). [link](https://arxiv.org/abs/2106.09494) [software](https://cran.r-project.org/web/packages/optimall/index.html)
 
