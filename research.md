@@ -4,6 +4,12 @@ permalink: "/research/"
 layout: page
 ---
 
+## Collaborative HIV/AIDS and Global Health Research
+
+I have been fortunate to work with many excellent researchers throughout the world on many interesting studies. Since 2006, I have been the lead statistician for the Caribbean, Central and South American network (CCASAnet) of the International epidemiology Databases to Evaluate AIDS (IeDEA). I am currently the Associate Director of the Data Science Core (DSC) of the Tennessee Center for AIDS Research (TN-CFAR); I served as Director of the TN-CFAR DSC from 2015-2024 and before that I was the lead statistician for the Vanderbilt-Meharry CFAR. I have also supervised biostatistical support for the Vanderbilt Institute for Global Health (VIGH) since 2006. In these roles, I have collaborated with many researchers on a wide variety of topics. I have worked with many other biostatisticians in this work; most of the analyses have actually been performed by members of my team. We take pride in using appropriate and modern statistical methods, and in making findings interpretable and reproducible. These collaborations have also led to many fascinating statistical problems that have motivated my statistical methods research.
+
+[More Information](/hiv-research/)
+
 ## Ordinal / Rank-based Analysis Methods
 
 Motivated by a simple question we encountered in our collaborative research, my colleague, Chun Li and I developed a new statistical method to test for association between two ordered categorical variables while adjusting for covariates.  In the process, we developed a new residual for ordinal outcomes, which we have since discovered to be useful for many other outcome types. This work has opened new directions for the analysis of continuous data using ordinal models, which are rank-based and make fewer assumptions than traditional approaches. The research is currently funded by an R01 from the National Institutes of Health.
@@ -12,7 +18,7 @@ Motivated by a simple question we encountered in our collaborative research, my 
 
 ## Methods to Address Error-Prone Data
 
-Data audits from the Carribean, Central, and South American network for HIV Epidemiology (CCASAnet) suggested that data from many of our sites had high error rates. We proposed to use information learned from the audits to correct otherwise biased estimates. This required developing new statistical methods that extend the measurement error literature to handle situations where both covariates and outcomes are measured with error, and the magnitude of these errors are correlated. We have developed and applied a variety of methods (e.g., generalized raking, multiple imputation, and sieve maximum likelihood estimators) for a wide variety of outcomes (e.g., time-to-event, binary, continuous). We have also studied optimal designs for selecting an audit (i.e., validation) subsample. This research is directly applicable to validating electronic health records data. We received funding from PCORI and the NIH to do this research; Pam Shaw (co-principal investigator) and I were given a MERIT award (R37) from the NIH for this research.
+Data audits from CCASAnet suggested that data from many of our sites had high error rates. We proposed to use information learned from the audits to correct otherwise biased estimates. This required developing new statistical methods that extend the measurement error literature to handle situations where both covariates and outcomes are measured with error, and the magnitude of these errors are correlated. We have developed and applied a variety of methods (e.g., generalized raking, multiple imputation, and sieve maximum likelihood estimators) for a wide variety of outcomes (e.g., time-to-event, binary, continuous). We have also studied optimal designs for selecting an audit (i.e., validation) subsample. This research is directly applicable to validating electronic health records data. We received funding from PCORI and the NIH to do this research; Pam Shaw (co-principal investigator) and I were given a MERIT award (R37) from the NIH for this research.
 
 [More Information](/data-errors/)
 
