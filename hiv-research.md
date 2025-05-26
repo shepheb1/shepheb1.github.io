@@ -21,6 +21,10 @@ Vanderbilt Institute for Global Health [link](https://www.vumc.org/global-health
 
 Vanderbilt-Nigeria Biostatistics Training Program [link](https://www.vumc.org/global-health/VN-BioStat)
 
+Shepherd BE, Hussaini N, Ingles D, Cassell H, Wester CW, Aliyu M. Training the next generation of biostatisticians in West Africa: the Vanderbilt Nigeria Biostatistics Training Program (VN-BioStat). *Journal of Global Health Reports* 2023; 7: e2023067. [link](https://pubmed.ncbi.nlm.nih.gov/38098733/)
+
+Shepherd BE, Hussaini N, Huang A, Van Wyk C, Kowalski MS, Ingles DJ, Wester CW, Li C, Aliyu MH. The Vanderbilt Nigeria Biostatistcs Training Program (VN-BioStat): results from a skills workshop. *International Journal of Statistics and Probability* 2023; 12: 66-72. [link](https://pubmed.ncbi.nlm.nih.gov/38318241/)
+
 
 ## A Few Selective HIV Research Papers
 
