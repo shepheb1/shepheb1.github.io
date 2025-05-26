@@ -28,7 +28,7 @@ Shepherd BE, Hussaini N, Huang A, Van Wyk C, Kowalski MS, Ingles DJ, Wester CW, 
 
 ## A Few Selective HIV Research Papers
 
-There are stories behind each of these papers, but it is too much to write them all up. Anyway, this gives you a feel for some of the HIV research I have been involved in since 2000. A complete list of all of my papers is on my CV.
+There are stories behind each of these papers, but it is too much to write them all up. Anyway, this gives you a feel for some of the HIV research I have been involved in since 2000. A complete list of all of my papers is on my [CV](https://shepheb1.github.io/assets/cv-promotions-tenure.pdf).
 
 Mwachari CW, Shepherd BE, Cleopa O, Odhiambo JA, Cohen CR.  Mortality and burden of disease in a cohort of HIV-seropositive adults in Nairobi, Kenya.  *International Journal of STD and AIDS* 2004; 15: 120-126. [link](https://pubmed.ncbi.nlm.nih.gov/15006075/)
 
