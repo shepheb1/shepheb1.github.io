@@ -20,6 +20,8 @@ Shepherd BE, Redman MW, Ankerst DP. Does finasteride affect the severity of pros
 
 Shepherd BE, Gilbert PB, Dupont CT. Sensitivity analyses comparing time-to-event outcomes only existing in a subset selected postrandomization and relaxing monotonicity. *Biometrics* 2011; 67: 1100-1110. [link](https://pubmed.ncbi.nlm.nih.gov/21114663/)
 
+Lu X, Mehrotra DV, Shepherd BE. Rank-based principal stratum sensitivity analyses. *Statistics in Medicine*  2013; 32: 4526-4539. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC5753805/)
+
 Gilbert PB, Shepherd BE, Hudgens MG. Sensitivity analysis of per-protocol time-to-event treatment efficacy in randomized clinical trials.  *Journal of the American Statistical Association* 2013; 108: 789-800. [link](https://pubmed.ncbi.nlm.nih.gov/24187408/)
 
 Gilbert PB, Blette BS, Shepherd BE, Hudgens MG. Post-randomization biomarker effect modification analysis in an HIV vaccine clinical trial. *Journal of Causal Inference* 2020; 8: 54-69. [link](https://pubmed.ncbi.nlm.nih.gov/33777613/)
