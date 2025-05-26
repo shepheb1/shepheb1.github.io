@@ -1,16 +1,19 @@
-
 ---
 title: "HIV/AIDS and Global Health Research"
 permalink: "/hiv-research/"
 layout: page
 ---
 
-HIV research
+A few of my major collaborations, and accompanying websites, are given below. 
 
-CCASAnet
+Carribean, Central, and South American network for HIV Epidemiology (CCASAnet) [link](https://www.ccasanet.org)
 
-CFAR
+International epidemiologic Databases to Evaluate AIDS (IeDEA) [link](https://www.iedea.org)
 
-VIGH
+Tennessee Center for AIDS Research (TN-CFAR) [link](https://tn-cfar.org)
+
+Vanderbilt Institute for Global Health [link](https://www.vumc.org/global-health/welcome)
+
+Vanderbilt-Nigeria Biostatistics Training Program [link](https://www.vumc.org/global-health/VN-BioStat)
 
 
