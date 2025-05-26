@@ -30,4 +30,4 @@ My early methods research was focused on developing statistical methods to compa
 
 ## Other Topics
 
-Interesting collaborative work has brought up interesting issues that have led to a paper or two on the topic. A few of these papers are [here](/other-papers/)
+Interesting collaborative work has brought up interesting issues that have led to a paper or two on the topic. A few of these papers are [here](/other-papers/).
