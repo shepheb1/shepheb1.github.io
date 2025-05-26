@@ -28,5 +28,6 @@ My early methods research was focused on developing statistical methods to compa
 
 [More Information](/causal/)
 
-## Publications (Methods)
-1. Authors. Title. *Journal Name*. year; **volume**, 123--156. [**DOI**](https://doi.org/10.1002/lio2.70060).
+## Other Topics
+
+Interesting collaborative work has brought up interesting issues that have led to a paper or two on the topic. A few of these papers are [here](/other-papers/)
