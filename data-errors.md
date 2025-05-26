@@ -48,6 +48,15 @@ Lotspeich SC, Amorim G, Shaw PA, Tao R, Shepherd BE. Optimal multi-wave validati
 Shepherd BE, Han K, Chen T, Bian A, Pugh SK, Duda SN, Lumley T, Heerman WJ, Shaw PA. Multi-wave validation sampling for error-prone electronic health records.  *Biometrics* 2023; 79: 2649-2663. [link](https://pubmed.ncbi.nlm.nih.gov/35775996/)
 
 
+## Audit Findings
+
+Duda SN, Shepherd BE, Gadd CS, Masys DR, McGowan CC.  Measuring the quality of observational study data in an international HIV research network.  *PLoS ONE* 2012; 7: e33908. [link](https://pubmed.ncbi.nlm.nih.gov/22493676/)
+
+Giganti MJ, Shepherd BE, Caro-Vega Y, Luz PM, Rebeiro PF, Maia M, Julmiste G, Cortes C, McGowan CC, Duda SN. The impact of data quality and source data verification on epidemiologic inference: a practical application using HIV observational data. *BMC Public Health* 2019; 19: 1748. [link](https://pubmed.ncbi.nlm.nih.gov/31888571/)
+
+Lotspeich S, Giganti M, Maia M, Vieira R, Machado D, de Menezes Succi R, Ribeiro S, Pereira M, Rodriguez M, Julmiste G, Luque M, Caro-Vega Y, Mejia F, Shepherd BE, McGowan CC, Duda S. Self-audits as alternatives to travel-audits for improving data quality in the Caribbean, Central and South America network for HIV epidemiology. *Journal of Clinical and Translational Science* 2019; 4: 125-132. [link](https://pubmed.ncbi.nlm.nih.gov/32313702/)
+
+
 ## Reviews and Software
 
 Shepherd BE, Shaw PA. Errors in multiple variables in HIV cohort and electronic health record data: statistical challenges and opportunities. *Statistical Communications in Infectious Diseases* 2020; 12: 20190015. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9204761/)
