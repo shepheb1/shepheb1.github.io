@@ -4,7 +4,7 @@ permalink: "/other-papers/"
 layout: page
 ---
 
-Here are a few other papers, which do not fit the general topics mentioned above, but that I think are kind of fun and worth highlighting. A complete list of all my publications is on my CV.
+Here are a few other papers, which do not fit into one of my larger areas of specific research topics, but that I think are kind of fun and worth highlighting. A complete list of all my publications is on my CV.
 
 Shepherd BE. The cost of checking proportional hazards. *Statistics in Medicine* 2008; 27: 1248-1260. [link](https://pubmed.ncbi.nlm.nih.gov/17708517/)
 
