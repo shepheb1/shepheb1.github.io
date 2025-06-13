@@ -4,7 +4,7 @@ permalink: "/causal/"
 layout: page
 ---
 
-Here are some of my earlier methods papers dealing with causal inference methods. Most of the principal stratification research was with my excellent advisor, Peter Gilbert.
+Here are some of my earlier methods papers dealing with causal inference methods. Most of the principal stratification research was with my PhD advisor, Peter Gilbert.
 
 ## Principal Stratification Sensitivity Analyses
 
