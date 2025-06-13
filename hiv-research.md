@@ -74,4 +74,7 @@ Ahonkhai AA, Bian A, Robbins NN, Maurer LA, Clouse K, Pierce LJ, Perkins JM, Wer
 
 Audet CM, Graves E, Shepherd BE, Prigmore HL, Brooks HL, Emilio A, Matino A, Paulo P, Diemer MA, Frisby M, Sack DE, Aboobacar A, Barreto E, Van Rompaey S, De Shacht C. Partner-based HIV treatment for seroconcordant couples attending antenatal and postnatal care in rural Mozambique: a cluster randomized controlled trial. *Journal of Acquired Immune Deficiency Syndromes* 2024; 96: 259-269. [link](https://pubmed.ncbi.nlm.nih.gov/38905476/)
 
+## Archived Analyses
+
+The code for many of our papers has been posted at the following link: [link](https://github.com/shepheb1/ArchivedAnalyses/tree/main)
 
